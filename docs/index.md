@@ -1,22 +1,24 @@
-# My Personal Portfolio Website 
-
+# Saira Alisha Begum
 -------
 
 ![Placeholder portrait](./img/Placeholder.png)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
+Currently studying MSc Bioinformatics at Queen Mary University of London. Obtained a first-class honours degree in Biommedical Science at the University of Greenwich. 
+
+Learning a variety of coding languages such as Python and R.
 
 
 ## Experience 
 
 | Role | Organisation | Dates | Example contribution |
 | --- | --- | --- | --- |
-| Summer Student | QMUL | Summer 2025 | Curated a small biological dataset and documented the workflow. |
-| Science Outreach Volunteer | QMUL | 2022–present | Developed activities introducing genetics to school students. |
+|Optical Assistant | L A Sackwild Opticians | 2022–present | -First point of contact for patients, - Advised on lens recommendations to suit patients needs|
+
+[GitHub](https://github.com/saira0-o)
 
 ## Education 
 
 | Degree | Institution | Dates | 
 | --- | --- | --- |
-| MSc Bioinformatics  | QMUL | 2024–2025 |
-| BSc Biochemistry | University of York | 2020–2024 |
+| MSc Bioinformatics  | QMUL | 2026–2028 |
+| BSc (Hons) Biomedical Science | University of Greenwich | 2022–2025 |

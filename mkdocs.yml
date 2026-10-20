@@ -1,8 +1,11 @@
-site_name: Personal Portfolio
+site_name: Saira Alisha Begum-Bioinformatics Portfolio
 
 theme:
   name: material
   language: en
+  palette:
+    primary: blue
+    accent: green
   features:
     - content.tooltips
     - navigation.instant
@@ -38,3 +41,4 @@ nav:
 
   - Experience:
     -  Unix & Genomics: experience/Unix_and_Genomics.md
+    -  Your Experience: experience/Your_Experience.md
